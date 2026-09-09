@@ -8,7 +8,6 @@
   </head>
   <body>
     <h1 style="color:white; background-color: black">Hello</h1>
-  </h1>
   <h1 style="color:blue; background-color: darkorange;">My name is Isaac Evans</h1>
   <body style="background-color:crimson;">
 <h3>I am a high school junior from Shafter High School, I graduate in 2028, and I am currently pursuing a career in Physics or Mathematics: below are picturs of me in a car and doing my AP Calculus work:</h3>
